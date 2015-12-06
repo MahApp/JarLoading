@@ -1,5 +1,5 @@
 ####JarLoading MCVE
-Loading jarfiles remote problem, this code **works with jar-files in general** but not with sketches from processing packed as a jar-file.
+Loading processing jarfiles problem, this code **works with jar-files in general** but not with sketches from processing packed as a jar-file.
 
 ####The Processing sketch Test1 as an Eclipse project
 [This](https://github.com/MahApp/JarLoading/blob/master/Test1/src/se/mah/Processing1.java) file is the output file exported from processing.
